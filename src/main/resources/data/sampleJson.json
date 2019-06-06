@@ -1,0 +1,20 @@
+{	
+	"flag": "000",
+	"message": "test",
+	"apiVersion": "2.0",
+	"data": {
+		"updated": "2010-01-07T19:58:42.949Z",
+		"totalItems": 800,
+		"items": [
+			{
+				"id": "hYB0mn5zh2c",
+				"uploaded": "2007-06-05T22:07:03.000Z",				
+				"duration": 2840,
+				"tags": ["GDD07", "GDD07US", "Maps"],
+				"player": {
+					"default": "https://www.youtube.com/watch?vu003dhYB0mn5zh2c"
+				}						
+			}
+		]
+	}
+}
